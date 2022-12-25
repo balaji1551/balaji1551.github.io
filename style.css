@@ -1380,8 +1380,7 @@ html, body {
 
 .team-member {
   font-size: 36px;
-  position:relative;
-  left: 242px;
+ 
   height: 335px;
   perspective: 1000;
   -webkit-perspective: 1000;
